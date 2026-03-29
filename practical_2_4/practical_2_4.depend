@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774782994 source:d:\users\admin\onedrive\desktop\practical_2_4\main.cpp
+	"Item.h"
+
+1774782994 d:\users\admin\onedrive\desktop\practical_2_4\include\item.h
+	<iostream>
+	<string>
+
+1774782994 source:d:\users\admin\onedrive\desktop\practical_2_4\src\item.cpp
+	"Item.h"
+
