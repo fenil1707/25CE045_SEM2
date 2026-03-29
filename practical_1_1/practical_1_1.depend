@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1774778891 source:d:\users\admin\onedrive\desktop\practical_1_1\src\online_payment.cpp
+	"online_payment.h"
+
+1774778891 d:\users\admin\onedrive\desktop\practical_1_1\include\online_payment.h
+	<iostream>
+
