@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774780781 source:d:\users\admin\onedrive\desktop\practical_1_2\main.cpp
+	"Library.h"
+
+1774781301 d:\users\admin\onedrive\desktop\practical_1_2\include\library.h
+	<iostream>
+	<string>
+
+1774780781 source:d:\users\admin\onedrive\desktop\practical_1_2\src\library.cpp
+	"Library.h"
+
