@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1775812098 source:d:\users\admin\onedrive\desktop\c++ pra\practical_4_2\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1775812098 d:\users\admin\onedrive\desktop\c++ pra\practical_4_2\include\point.h
+
+1776073605 source:d:\users\admin\onedrive\desktop\c++ pra\practical_4_2\main.cpp
+	<iostream>
+	"Point.h"
+
