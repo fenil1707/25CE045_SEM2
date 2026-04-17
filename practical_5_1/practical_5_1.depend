@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1776347501 source:d:\users\admin\onedrive\desktop\c++ pra\practical_5_1\wordfreq.cpp
+	<iostream>
+	"wordfreq.h"
+
+1776347501 d:\users\admin\onedrive\desktop\c++ pra\practical_5_1\wordfreq.h
+	<string>
+

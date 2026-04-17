@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1743445502 source:d:\users\admin\onedrive\desktop\c++ pra\practical_4_3\main.cpp
+	<iostream>
+
+1776345962 source:d:\users\admin\onedrive\desktop\c++ pra\practical_4_3\merge.cpp
+	<iostream>
+	"merge.h"
+
+1776345962 d:\users\admin\onedrive\desktop\c++ pra\practical_4_3\merge.h
+
