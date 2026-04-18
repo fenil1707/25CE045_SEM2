@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1776449573 source:d:\users\admin\onedrive\desktop\c++ pra\practical_6_1\main.cpp
+	<iostream>
+	"shape.h"
+
+1776449573 d:\users\admin\onedrive\desktop\c++ pra\practical_6_1\shape.h
+
+1776449573 source:d:\users\admin\onedrive\desktop\c++ pra\practical_6_1\shape.cpp
+	"shape.h"
+

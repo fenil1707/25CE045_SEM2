@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1776449959 source:d:\users\admin\onedrive\desktop\c++ pra\practical_6_2\person.cpp
+	"person.h"
+
+1776449959 d:\users\admin\onedrive\desktop\c++ pra\practical_6_2\person.h
+	<iostream>
+
