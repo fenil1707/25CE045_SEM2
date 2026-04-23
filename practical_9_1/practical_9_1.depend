@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1776952709 source:d:\users\admin\onedrive\desktop\c++ pra\practical_9_1\vectorrev.cpp
+	<iostream>
+	<algorithm>
+	"vectorrev.h"
+
+1776952709 d:\users\admin\onedrive\desktop\c++ pra\practical_9_1\vectorrev.h
+	<vector>
+
