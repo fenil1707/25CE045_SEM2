@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1777046090 source:d:\users\admin\onedrive\desktop\c++ pra\practical_9_3\main.cpp
+	<iostream>
+	"setdup.h"
+
+1777046090 d:\users\admin\onedrive\desktop\c++ pra\practical_9_3\setdup.h
+	<vector>
+	<set>
+
+1777046090 source:d:\users\admin\onedrive\desktop\c++ pra\practical_9_3\setdup.cpp
+	<iostream>
+	"setdup.h"
+
